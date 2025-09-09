@@ -12,7 +12,6 @@ It reads data, applies a price correction, creates a bar chart, and saves the re
 
 ## Project Structure  
 excel-automation/
-- │── data/ # sample spreadsheets (input/output)
 - │── main.py # main script
 - │── requirements.txt # dependencies (openpyxl)
 - │── README.md # project description
