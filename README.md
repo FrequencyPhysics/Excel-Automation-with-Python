@@ -31,12 +31,12 @@ excel-automation/
 
 # Walkthrough:
 
-##Reading Correct File and Counting Rows:
+** Reading Correct File and Counting Rows:
 <img width="580" height="135" alt="image" src="https://github.com/user-attachments/assets/94289f02-152e-4fd3-a0ea-06f6b5c84820" />
 
-##Input file - Reading Prices in column 3:
+** Input file - Reading Prices in column 3:
 <img width="222" height="70" alt="image" src="https://github.com/user-attachments/assets/2fab484d-e889-4cd4-b58d-e6d693a9c95c" />
 
-## Adding Corrected Prices & new workbook - Output file:
+** Adding Corrected Prices & new workbook - Output file:
 <img width="717" height="257" alt="image" src="https://github.com/user-attachments/assets/60b976fb-4df2-4f77-818e-0e00d9edb7dd" />
 
